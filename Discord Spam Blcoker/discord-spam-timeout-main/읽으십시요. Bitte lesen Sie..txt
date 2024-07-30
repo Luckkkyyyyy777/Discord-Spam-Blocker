@@ -1,0 +1,8 @@
+스팸 차단봇입니다. 해당 코드는 수정을 통하면 유통하셔도 상관 없습니다.
+Das ist Spam-Blocker-Bot. Dieser Code kann nicht geändert werden.
+
+
+
+
+discord : #ChoLuckyistsosüß
+module : datetime, requests, discord
